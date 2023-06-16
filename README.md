@@ -3,6 +3,7 @@
 # Intro
 Security Champions Playbook is a project started in preparation for the presentation ["Security Champions 2.0"](https://www.owasp.org/images/3/3c/OWASP_Bucharest_2017_Antukh.pdf) at OWASP Bucharest AppSec Conference 2017. It describes the main steps for fast establishment of a Security Champions program regardless of the company size and maturity of the existing security processes.
 
+https://owasp.org/www-project-security-culture/v10/4-Security_Champions/
 
 # Who are the Security Champions?
 Security Champions are "active members of a team that may help to make decisions about when to engage the Security Team". They act as a core element of security assurance process within the product or service, and hold the role of the Single Point of Contact (SPOC) within the team.
